@@ -3,12 +3,14 @@
 ### I'm a iOS Developer and Computer Engineering student!
 - 👾 I'm currently learning about modularity in Swift Projects.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FillipiPS&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Coding Activity
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FillipiPS&custom_title=Fillipi's+GitHub+Stats&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+  <a href="https://github.com/FillipiPS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FillipiPS&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FillipiPS&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+<div>
+  
 ### Contact with me
 
 [<img src="https://user-images.githubusercontent.com/39777244/120128570-b2917900-c198-11eb-9d4b-26070af6ab36.png" width=50px>](https://twitter.com/FillipiPS)
