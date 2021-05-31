@@ -3,12 +3,18 @@
 ### I'm a iOS Developer and Computer Engineering student!
 - 👾 I'm currently learning about modularity in Swift Projects.
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Fillipi-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+</div>
+
 ### Coding Activity
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/FillipiPS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FillipiPS&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FillipiPS&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=FillipiPS&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&custom_title=Fillipi's+GitHub+Stats"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FillipiPS&layout=compact&langs_count=16&card_width=220&theme=chartreuse-dark"/>
 </div>
   
 ### Contact with me
@@ -23,7 +29,7 @@
   </a> 
  
 ![Snake animation](https://github.com/FillipiPS/FillipiPS/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
 
 <br/>
