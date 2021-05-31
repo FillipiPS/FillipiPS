@@ -12,13 +12,21 @@
 <div>
   
 ### Contact with me
-
-[<img src="https://user-images.githubusercontent.com/39777244/120128570-b2917900-c198-11eb-9d4b-26070af6ab36.png" width=50px>](https://twitter.com/FillipiPS)
-[<img src="https://user-images.githubusercontent.com/39777244/120129942-61cf4f80-c19b-11eb-84a7-d04293138d5d.png" width=60px>](https://www.linkedin.com/in/fillipips)
+  
+<div> 
+  <a href="https://twitter.com/FillipiPS" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  </a>
+    
+  <a href="https://www.linkedin.com/in/fillipips" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+ 
+![Snake animation](https://github.com/FillipiPS/FillipiPS/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 <br/>
-
-![Snake animation](https://github.com/FillipiPS/FillipiPS/blob/output/github-contribution-grid-snake.svg)
 
 <p align="right">
   <a href="https://badges.pufler.dev">
