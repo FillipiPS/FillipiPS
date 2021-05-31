@@ -16,6 +16,8 @@
 
 <br/>
 
+![Snake animation](https://github.com/FillipiPS/FillipiPS/blob/output/github-contribution-grid-snake.svg)
+
 <p align="right">
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/years/FillipiPS" alt="Fillipi years badge" />
