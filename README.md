@@ -3,18 +3,25 @@
 ### I'm a Computer Engineer and iOS Engineer!
 - 👾 I'm currently learning about modularity in Swift Projects.
 
-<!--
-<div style="display: inline_block"><br>
-  <img align="center" alt="Fillipi-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-</div>
--->
+<p align="center">
+  <br>
+  <img alt="Swift" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img alt="C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img alt="C++" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img alt="C#" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+</p>
+
 
 <!-- https://github.com/tandpfun/skill-icons -->
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,c,cpp,cs,python,flutter" />
   </a>
 </p>
+-->
 
 ### Coding Activity
 
