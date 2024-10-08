@@ -3,6 +3,7 @@
 ### I'm a Computer Engineer and iOS Engineer!
 - 👾 I'm currently learning about modularity in Swift Projects.
 
+<!--
 <p align="center">
   <br>
   <img alt="Swift" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
@@ -12,16 +13,16 @@
   <img alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </p>
-
+-->
 
 <!-- https://github.com/tandpfun/skill-icons -->
-<!--
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,c,cpp,cs,python,flutter" />
   </a>
 </p>
--->
+
 
 ### Coding Activity
 
