@@ -1,62 +1,56 @@
-## Hi there, I'm Fillipi 👋
+## Hey, I'm Fillipi 👋  
+**iOS Engineer • Computer Engineer**  
+_Focused on native iOS development (Swift)_
 
-### I'm a Computer Engineer and iOS Engineer!
-- 👾 I'm currently learning about modularity in Swift Projects.
+🚀 Building high-performance mobile apps used at scale, with a strong focus on **architecture, accessibility and performance**.  
+🧩 Working with **modularization, SDUI and BFFs** to enable fast product iteration and scalable teams.  
+🎯 Interested in deepening my work on **native Apple platforms** and advanced iOS architecture.
 
-<!--
-<p align="center">
-  <br>
-  <img alt="Swift" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img alt="C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="C++" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img alt="C#" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-</p>
--->
+---
 
-<!-- https://github.com/tandpfun/skill-icons -->
+### 🧠 Tech Stack
 
 <p align="center">
-  <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,c,cpp,cs,python,flutter" />
+    <img src="https://skillicons.dev/icons?i=swift,apple,typescript,git,nodejs,python" />
   </a>
 </p>
 
+**Mobile & iOS**
+- SwiftUI, UIKit, Swift Concurrency (async/await, Actors), Combine  
+- Architecture: MVVM-C, Clean Architecture, VIP, Modularization, SDUI  
+- Testing: XCTest (Unit, UI, Snapshot), TDD  
+- Quality: SwiftLint, Code Review, Observability (Firebase, Bugsnag)
 
-### Coding Activity
+**Tooling & CI/CD**
+- Bitrise, Fastlane, Xcode Cloud, SPM, CocoaPods
 
-<div style="display: inline_block">
-  <a href="https://github.com/FillipiPS">
-    <img height="180em" 
-         src="https://github-readme-stats.vercel.app/api?username=FillipiPS&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&custom_title=Fillipi's+GitHub+Stats"/>
-    <img height="180em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=FillipiPS&layout=compact&langs_count=16&card_width=220&theme=chartreuse-dark"/>
-  </a>
-</div>
-  
-### Contact with me
-  
-<div> 
-  <a href="https://twitter.com/FillipiPS" target="_blank">
-    <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank">
-  </a>
-    
+**Backend & Product**
+- BFF with TypeScript (Node.js), REST APIs, Feature Flags, Remote Config, A/B Testing
+
+---
+
+### 🏗️ What I work with
+
+- 📱 Large-scale mobile apps (e-commerce & fintech)  
+- 🧩 Modular architectures enabling multiple squads to scale safely  
+- 🌐 Server-Driven UI (SDUI) for fast UI iteration  
+- ⚙️ Backend For Frontend (BFF) to simplify client complexity  
+- ♿ Accessibility-first development  
+- 🚀 Performance, profiling and smooth scrolling at scale  
+
+---
+
+### 🤝 Let’s connect
+
+<div align="center"> 
   <a href="https://www.linkedin.com/in/fillipips" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  
+
+  <a href="mailto:fillipi_ps@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
-<br/>
-
-<p align="right">
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/FillipiPS" alt="Fillipi years badge" />
-  </a>
-  
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/FillipiPS" alt="Fillipi repos badge" />
-  </a>
-</p>
+---
